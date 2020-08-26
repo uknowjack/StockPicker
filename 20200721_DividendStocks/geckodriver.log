@@ -1,0 +1,697 @@
+1595364770784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQtMMJZ"
+1595364777620	Marionette	INFO	Listening on port 32855
+1595364777708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595374325294	Marionette	INFO	Stopped listening on port 32855
+1595504385714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXQKAjk"
+1595504392272	Marionette	INFO	Listening on port 37877
+1595504392580	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595680460660	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehqVVvk"
+1595680466129	Marionette	INFO	Listening on port 33753
+1595680466237	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595681682029	Marionette	INFO	Stopped listening on port 33753
+1595681689406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejdx8V7"
+1595681693622	Marionette	INFO	Listening on port 39685
+1595681693724	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595682137894	Marionette	INFO	Stopped listening on port 39685
+1595682144093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilem0C3I7"
+1595682148001	Marionette	INFO	Listening on port 36307
+1595682148024	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595682828614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehcQEqU"
+1595682834047	Marionette	INFO	Listening on port 35311
+1595682834232	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595682903068	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0rIhOd"
+1595682907810	Marionette	INFO	Listening on port 34631
+1595682907899	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595682913418	Marionette	INFO	Stopped listening on port 35311
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595682952408	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh1BiM6"
+1595682956333	Marionette	INFO	Listening on port 45803
+1595682956426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595684566853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePvUh62"
+1595684571559	Marionette	INFO	Listening on port 46053
+1595684571566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595684794718	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileymYWFg"
+1595684800206	Marionette	INFO	Listening on port 37297
+1595684800272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595685277027	Marionette	INFO	Stopped listening on port 37297
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595685280791	Marionette	INFO	Stopped listening on port 46053
+1595685283869	Marionette	INFO	Stopped listening on port 45803
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595685286941	Marionette	INFO	Stopped listening on port 34631
+1595685342974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej8Kb2y"
+1595685347165	Marionette	INFO	Listening on port 45081
+1595685347215	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595686196240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileohz2Jw"
+1595686200257	Marionette	INFO	Listening on port 45737
+1595686200268	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595686938310	Marionette	INFO	Stopped listening on port 45737
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595686942766	Marionette	INFO	Stopped listening on port 45081
+1595686948667	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAdbHNJ"
+1595686953659	Marionette	INFO	Listening on port 37369
+1595686953686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595688991350	Marionette	INFO	Stopped listening on port 37369
+1595695009992	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTwy7HB"
+1595695015344	Marionette	INFO	Listening on port 45643
+1595695015414	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595695097627	Marionette	INFO	Stopped listening on port 45643
+1595695104406	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUAEOVl"
+1595695109199	Marionette	INFO	Listening on port 38305
+1595695109231	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595695119026	Marionette	INFO	Stopped listening on port 38305
+1595697290948	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ299dS"
+1595697294882	Marionette	INFO	Listening on port 36665
+1595697294971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595697320639	Marionette	INFO	Stopped listening on port 36665
+1595699830643	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8urKil"
+1595699834689	Marionette	INFO	Listening on port 40409
+1595699834758	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595699903566	Marionette	INFO	Stopped listening on port 40409
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595700015213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevbEB9d"
+1595700019017	Marionette	INFO	Listening on port 34847
+1595700019033	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595700112150	Marionette	INFO	Stopped listening on port 34847
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1595700207815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekwfKBz"
+1595700211737	Marionette	INFO	Listening on port 41273
+1595700211838	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595700255871	Marionette	INFO	Stopped listening on port 41273
+1595762578264	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet8zkG0"
+1595762583578	Marionette	INFO	Listening on port 37295
+1595762583627	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595762637888	Marionette	INFO	Stopped listening on port 37295
+1595764921661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7tfPe8"
+1595764925168	Marionette	INFO	Listening on port 40573
+1595764925175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595764948357	Marionette	INFO	Stopped listening on port 40573
+1595767745957	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo5lXZe"
+1595767749730	Marionette	INFO	Listening on port 32789
+1595767749771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595767759267	Marionette	INFO	Stopped listening on port 32789
+1595782574576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6Roc9h"
+1595782582444	Marionette	INFO	Listening on port 41161
+1595782582533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595782594230	Marionette	INFO	Stopped listening on port 41161
+1595793827324	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRokYYd"
+1595793840017	Marionette	INFO	Listening on port 43933
+1595793840126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1595793848339	Marionette	INFO	Stopped listening on port 43933
+1596149711687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletYV8vq"
+1596149717618	Marionette	INFO	Listening on port 34841
+1596149717634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596149728577	Marionette	INFO	Stopped listening on port 34841
+1596246822133	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQS8yzr"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596246840329	Marionette	INFO	Listening on port 33663
+1596246840430	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596246851807	Marionette	INFO	Stopped listening on port 33663
+1596247184914	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHaeA2p"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596247189535	Marionette	INFO	Listening on port 45127
+1596247189631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596247200679	Marionette	INFO	Stopped listening on port 45127
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1596248459054	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1fhSoG"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596248462787	Marionette	INFO	Listening on port 44955
+1596248462873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596248473086	Marionette	INFO	Stopped listening on port 44955
+1596248721687	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemP3ZFc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596248724648	Marionette	INFO	Listening on port 45005
+1596248724707	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596248735371	Marionette	INFO	Stopped listening on port 45005
+1596249495546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqahO2"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596249499248	Marionette	INFO	Listening on port 34831
+1596249499277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596249510175	Marionette	INFO	Stopped listening on port 34831
+1596369440170	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePVPINi"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596369452892	Marionette	INFO	Listening on port 46211
+1596369452952	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596369465694	Marionette	INFO	Stopped listening on port 46211
+1596407437320	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexwe9Wa"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596407447022	Marionette	INFO	Listening on port 34757
+1596407447108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596407459285	Marionette	INFO	Stopped listening on port 34757
+1596418364683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilettYBCH"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596418367547	Marionette	INFO	Listening on port 43605
+1596418367610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596418377597	Marionette	INFO	Stopped listening on port 43605
+1596418772548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletubzpL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596418775904	Marionette	INFO	Listening on port 36259
+1596418775959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596418785797	Marionette	INFO	Stopped listening on port 36259
+1596418913486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezcSi1Y"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596418916354	Marionette	INFO	Listening on port 42787
+1596418916396	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596418926801	Marionette	INFO	Stopped listening on port 42787
+1596419002208	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2CCtEm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596419005099	Marionette	INFO	Listening on port 42039
+1596419005126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596419015577	Marionette	INFO	Stopped listening on port 42039
+1596419134434	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXpbZd0"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596419137577	Marionette	INFO	Listening on port 36307
+1596419137655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596419148821	Marionette	INFO	Stopped listening on port 36307
+1596419654845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1dfu1N"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596419658005	Marionette	INFO	Listening on port 33353
+1596419658057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596419668013	Marionette	INFO	Stopped listening on port 33353
+1596419863499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTZugUw"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596419866701	Marionette	INFO	Listening on port 34241
+1596419866722	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596419877342	Marionette	INFO	Stopped listening on port 34241
+1596587486998	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRrOECc"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596587491551	Marionette	INFO	Listening on port 36207
+1596587491647	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596587505709	Marionette	INFO	Stopped listening on port 36207
+1596589818546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHwX184"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596589822488	Marionette	INFO	Listening on port 35403
+1596589822583	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596589833168	Marionette	INFO	Stopped listening on port 35403
+1596589920139	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile38S0So"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596589923963	Marionette	INFO	Listening on port 32843
+1596589924060	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596589937070	Marionette	INFO	Stopped listening on port 32843
+1596590582217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNLmtFL"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596590585949	Marionette	INFO	Listening on port 44397
+1596590586117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596590597112	Marionette	INFO	Stopped listening on port 44397
+1596590667580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejMb2ee"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596590672093	Marionette	INFO	Listening on port 39969
+1596590672114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596590683311	Marionette	INFO	Stopped listening on port 39969
+1596598861456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekEvx0L"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596598864580	Marionette	INFO	Listening on port 43493
+1596598864668	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596598897932	Marionette	INFO	Stopped listening on port 43493
+1596599334399	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled7Fdfn"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596599337208	Marionette	INFO	Listening on port 46097
+1596599337217	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1596599405798	Marionette	INFO	Stopped listening on port 46097
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1598373755045	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.BlvDBbThWhOh"
+1598373756002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598373756002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598373756002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598373756002	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598373758572	Marionette	INFO	Listening on port 54537
+1598373758606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598373763901	Marionette	INFO	Stopped listening on port 54537
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_ILLEGAL_VALUE: 
+1598410505757	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.cTIyOEJCULBp"
+1598410506759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598410506759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598410506759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598410506759	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598410509196	Marionette	INFO	Listening on port 56008
+1598410509253	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598410515968	Marionette	INFO	Stopped listening on port 56008
+1598455099409	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.7CbMBnM18lce"
+1598455100212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598455100212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598455100212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598455100212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598455102547	Marionette	INFO	Listening on port 57783
+1598455102572	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598455108057	Marionette	INFO	Stopped listening on port 57783
+1598455592267	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.G7sae4tThc5l"
+1598455593005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598455593005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598455593005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598455593005	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598455594997	Marionette	INFO	Listening on port 57950
+1598455595039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598455600538	Marionette	INFO	Stopped listening on port 57950
+1598455655772	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.CeQ5eBgDUmRZ"
+1598455656330	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598455656331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598455656331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598455656331	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598455657997	Marionette	INFO	Listening on port 58021
+1598455658053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598455664235	Marionette	INFO	Stopped listening on port 58021
+1598455789678	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.6t9K7TeJhBL4"
+1598455790258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598455790258	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598455790259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598455790259	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598455792124	Marionette	INFO	Listening on port 58141
+1598455792133	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598455798182	Marionette	INFO	Stopped listening on port 58141
+1598457352668	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.NHCqlulmPmUW"
+1598457353761	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598457353762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598457353762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598457353762	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598457356049	Marionette	INFO	Listening on port 58605
+1598457356108	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598457361700	Marionette	INFO	Stopped listening on port 58605
+1598457544232	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.BpoWlHEh5wbY"
+1598457544789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598457544789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598457544789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598457544789	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598457546504	Marionette	INFO	Listening on port 58745
+1598457546514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598457551881	Marionette	INFO	Stopped listening on port 58745
