@@ -1,0 +1,269 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 1,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.303593Z",
+     "start_time": "2020-08-27T12:52:36.345187Z"
+    }
+   },
+   "outputs": [
+    {
+     "ename": "ModuleNotFoundError",
+     "evalue": "No module named 'dividend_detective_scrape'",
+     "output_type": "error",
+     "traceback": [
+      "\u001b[0;31m---------------------------------------------------------------------------\u001b[0m",
+      "\u001b[0;31mModuleNotFoundError\u001b[0m                       Traceback (most recent call last)",
+      "\u001b[0;32m<ipython-input-1-ce626acc3922>\u001b[0m in \u001b[0;36m<module>\u001b[0;34m\u001b[0m\n\u001b[1;32m      2\u001b[0m \u001b[0;32mimport\u001b[0m \u001b[0mnumpy\u001b[0m \u001b[0;32mas\u001b[0m \u001b[0mnp\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      3\u001b[0m \u001b[0;32mimport\u001b[0m \u001b[0mimport_ipynb\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0;32m----> 4\u001b[0;31m \u001b[0;32mimport\u001b[0m \u001b[0mdividend_detective_scrape\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n\u001b[0m\u001b[1;32m      5\u001b[0m \u001b[0;34m\u001b[0m\u001b[0m\n\u001b[1;32m      6\u001b[0m \u001b[0;32mimport\u001b[0m \u001b[0myfinance\u001b[0m \u001b[0;32mas\u001b[0m \u001b[0myf\u001b[0m\u001b[0;34m\u001b[0m\u001b[0;34m\u001b[0m\u001b[0m\n",
+      "\u001b[0;31mModuleNotFoundError\u001b[0m: No module named 'dividend_detective_scrape'"
+     ]
+    }
+   ],
+   "source": [
+    "import pandas as pd\n",
+    "import numpy as np\n",
+    "import import_ipynb\n",
+    "import dividend_detective_scrape\n",
+    "\n",
+    "import yfinance as yf\n",
+    "\n",
+    "import datetime as dt\n",
+    "\n",
+    "from datetime import datetime"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.307276Z",
+     "start_time": "2020-08-27T12:52:36.338Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "%%time\n",
+    "div_stocks = dividend_detective_scrape.get_data()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.308159Z",
+     "start_time": "2020-08-27T12:52:36.340Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "div_stocks"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.309019Z",
+     "start_time": "2020-08-27T12:52:36.343Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "min_div = 5.0\n",
+    "\n",
+    "approved_div_stocks = div_stocks[div_stocks['div_yield']>min_div]\n",
+    "\n",
+    "approved_div_stocks"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.309965Z",
+     "start_time": "2020-08-27T12:52:36.345Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "div_stocks['div_consistency_score'] = 0.0"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.311096Z",
+     "start_time": "2020-08-27T12:52:36.347Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def trim_div_data(stockObj):\n",
+    "    actns = stockObj.actions\n",
+    "    for i,r in actns.iterrows():\n",
+    "        if r['Dividends'] > 0:\n",
+    "            first_div_date = i\n",
+    "            break\n",
+    "\n",
+    "    actns = actns.loc[first_div_date:]\n",
+    "    return actns, first_div_date"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.313091Z",
+     "start_time": "2020-08-27T12:52:36.349Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def add_div_data_details(actns, first_div_date):\n",
+    "    actns['days_since_first_div'] = (actns.index-first_div_date).days\n",
+    "    actns['year'] = actns.index.year\n",
+    "    \n",
+    "    h = []\n",
+    "    l = []\n",
+    "    for i,r in actns.iterrows():\n",
+    "        prices = stockObj.history(start=i,end = i+pd.DateOffset(1)).iloc[0]\n",
+    "        h.append(prices['High'])\n",
+    "        l.append(prices['Low'])\n",
+    "\n",
+    "    actns['Stock_High'] = h\n",
+    "    actns['Stock_Low'] = l\n",
+    "    \n",
+    "    actns['day_div_yield'] = actns['Dividends']/actns['Stock_High']\n",
+    "    return actns"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.314641Z",
+     "start_time": "2020-08-27T12:52:36.351Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def get_ind_div_data(stockObj):\n",
+    "    df, first_div_date = trim_div_data(stockObj)\n",
+    "    return add_div_data_details(df, first_div_date)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.317599Z",
+     "start_time": "2020-08-27T12:52:36.353Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def get_div_consistency_score(stockObj):\n",
+    "    \n",
+    "    df = stockObj.actions\n",
+    "    df['year'] = df.index.year\n",
+    "    df = df[df['Dividends']>0]\n",
+    "    df = df.drop(columns=['Stock Splits'])\n",
+    "    \n",
+    "    ann_df = df.groupby(['year']).agg(\n",
+    "        {'Dividends': np.sum}).rename(columns=\n",
+    "        {'Dividends':'dividends'})\n",
+    "    start_year = ann_df.index[0]\n",
+    "    end_year = ann_df.index[len(ann_df)-1]+1\n",
+    "    ann_df = ann_df.reindex(list(range(start_year,end_year)), fill_value=0)\n",
+    "    \n",
+    "    consistancy_coeff = [1/(2**(x+1)) for x in range(len(ann_df))][::-1]\n",
+    "    year_progress = datetime.now().timetuple().tm_yday/365\n",
+    "    consistancy_coeff[-1] = consistancy_coeff[-1]*year_progress\n",
+    "    \n",
+    "    ann_df['div_consistency_score'] = consistancy_coeff\n",
+    "    \n",
+    "    highest_div = ann_df.iloc[0]['dividends']\n",
+    "    \n",
+    "#     add another weight to the last cell where i get the percentage of the year we've been in and multiply it by that\n",
+    "\n",
+    "    for i,r in ann_df[1:].iterrows():      \n",
+    "#         i need to think about a better way to do this because right now\n",
+    "#         it compares the wrong two pieces\n",
+    "        if r['dividends'] < ann_df.loc[i-1]['dividends']:\n",
+    "            mult = r['div_consistency_score']\n",
+    "            div_perc = r['dividends']/highest_div\n",
+    "            ann_df.at[i, 'div_consistency_score'] = mult * div_perc\n",
+    "        else:\n",
+    "            highest_div = r['dividends']\n",
+    "    \n",
+    "    return ann_df['div_consistency_score'].sum()"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.323852Z",
+     "start_time": "2020-08-27T12:52:36.355Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "def get_all_consistancy_scores(stockList):\n",
+    "    for index, row in stockList.iterrows():\n",
+    "        stockObj = yf.Ticker(row['ticker'])\n",
+    "        div_consis = get_div_consistency_score(stockObj)\n",
+    "        stockList.at[index, 'div_consistency_score'] = div_consis\n",
+    "    return stockList"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {
+    "ExecuteTime": {
+     "end_time": "2020-08-27T12:52:37.325299Z",
+     "start_time": "2020-08-27T12:52:36.357Z"
+    }
+   },
+   "outputs": [],
+   "source": [
+    "acceptable_div_stocks = get_all_consistancy_scores(approved_div_stocks)"
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.1"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
