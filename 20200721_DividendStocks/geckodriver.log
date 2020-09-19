@@ -761,3 +761,247 @@ JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/r
 JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
 1598578797400	Marionette	INFO	Stopped listening on port 65110
 JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_ILLEGAL_VALUE: 
+1598887784359	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.L9mE7IHT20vt"
+1598887785581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1598887785581	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1598887785582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1598887785582	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1598887788293	Marionette	INFO	Listening on port 61661
+1598887788310	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1598887793821	Marionette	INFO	Stopped listening on port 61661
+1599595151649	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.KtypafdS5wmI"
+1599595153477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599595153477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599595153477	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599595153478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599595156221	Marionette	INFO	Listening on port 51222
+1599595156251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599595161624	Marionette	INFO	Stopped listening on port 51222
+1599780300834	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.pYjViBZxf69G"
+1599780302352	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599780302353	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599780302354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599780302354	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599780306699	Marionette	INFO	Listening on port 61314
+1599780306778	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599780312414	Marionette	INFO	Stopped listening on port 61314
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 162: NS_ERROR_ILLEGAL_VALUE: 
+1599780698799	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.2m6oQW38QDUS"
+1599780699901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599780699901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599780699901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599780699901	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599780703013	Marionette	INFO	Listening on port 61425
+1599780703027	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599780709851	Marionette	INFO	Stopped listening on port 61425
+1599859221685	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.UbVfrNonnNYs"
+1599859223266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599859223266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599859223266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599859223266	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599859228629	Marionette	INFO	Listening on port 65206
+1599859228732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599859234964	Marionette	INFO	Stopped listening on port 65206
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1599872970786	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.6wgLwCsGDCSL"
+1599872972208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599872972208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599872972208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599872972208	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599872974924	Marionette	INFO	Listening on port 49752
+1599872974974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599872980185	Marionette	INFO	Stopped listening on port 49752
+1599929269917	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.frqoriVR31X1"
+1599929271726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599929271726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599929271727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599929271727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599929276265	Marionette	INFO	Listening on port 53920
+1599929276366	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599929285500	Marionette	INFO	Stopped listening on port 53920
+1599932111038	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.gbqKVEtcYkkx"
+1599932112737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599932112738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599932112738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599932112738	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599932116201	Marionette	INFO	Listening on port 55778
+1599932116273	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599932121549	Marionette	INFO	Stopped listening on port 55778
+1599932609276	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.UdPm5BxEGjGD"
+1599932610391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599932610391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599932610391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599932610391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599932614056	Marionette	INFO	Listening on port 56705
+1599932614106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599932619997	Marionette	INFO	Stopped listening on port 56705
+1599932654578	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.3YjMFT5tIrWd"
+1599932655339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599932655339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599932655339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599932655339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599932657108	Marionette	INFO	Listening on port 56844
+1599932657166	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599932663178	Marionette	INFO	Stopped listening on port 56844
+1599932768962	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.by9I1VwdD50V"
+1599932769743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599932769743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599932769743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599932769744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599932771690	Marionette	INFO	Listening on port 56997
+1599932771741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599932776475	Marionette	INFO	Stopped listening on port 56997
+1599932807163	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.6hce04fq0i7U"
+1599932807842	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599932807843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599932807843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599932807843	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599932809478	Marionette	INFO	Listening on port 57071
+1599932809567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599932815491	Marionette	INFO	Stopped listening on port 57071
+1599933222287	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.OMR2rJtqWVhx"
+1599933223537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599933223537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599933223537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599933223537	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599933227052	Marionette	INFO	Listening on port 57242
+1599933227079	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599933232815	Marionette	INFO	Stopped listening on port 57242
+1599933419559	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.94hcNXfzL4oe"
+1599933420290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599933420290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599933420291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599933420291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599933422471	Marionette	INFO	Listening on port 57677
+1599933422582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599933428186	Marionette	INFO	Stopped listening on port 57677
+1599933546913	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/fv/jy8v6fbn4vs8y619hkk137bm0000gn/T/rust_mozprofile.cOg4jy7ajUEC"
+1599933548092	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1599933548093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1599933548093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1599933548093	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1599933550355	Marionette	INFO	Listening on port 58057
+1599933550412	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1599933555397	Marionette	INFO	Stopped listening on port 58057
