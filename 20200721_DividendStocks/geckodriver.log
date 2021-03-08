@@ -1005,3 +1005,161 @@ JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/r
 JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
 JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
 1599933555397	Marionette	INFO	Stopped listening on port 58057
+1614093755994	geckodriver	INFO	Listening on 127.0.0.1:37775
+1614093756001	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC4KZqm"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614093758414	Marionette	INFO	Listening on port 39933
+1614093758534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614093758551	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1614093763861	Marionette	INFO	Stopped listening on port 39933
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615205109873	geckodriver	INFO	Listening on 127.0.0.1:36701
+1615205110886	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2BlPaQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615205112802	Marionette	INFO	Listening on port 41957
+1615205112922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615205117355	Marionette	INFO	Stopped listening on port 41957
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615215431625	geckodriver	INFO	Listening on 127.0.0.1:57015
+1615215432632	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehPl67I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615215434588	Marionette	INFO	Listening on port 40449
+1615215434664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615215439065	Marionette	INFO	Stopped listening on port 40449
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615215863820	geckodriver	INFO	Listening on 127.0.0.1:45917
+1615215863825	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV7r3Nb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615215865934	Marionette	INFO	Listening on port 46225
+1615215866048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615215870281	Marionette	INFO	Stopped listening on port 46225
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615229563063	geckodriver	INFO	Listening on 127.0.0.1:41411
+1615229564072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileipfkDh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615229565955	Marionette	INFO	Listening on port 34821
+1615229566038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615229570519	Marionette	INFO	Stopped listening on port 34821
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615229599165	geckodriver	INFO	Listening on 127.0.0.1:40333
+1615229600180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6btMjx"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615229602138	Marionette	INFO	Listening on port 41463
+1615229602204	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615229606549	Marionette	INFO	Stopped listening on port 41463
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615229746105	geckodriver	INFO	Listening on 127.0.0.1:36031
+1615229747121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileD7Tlnb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615229749218	Marionette	INFO	Listening on port 34789
+1615229749257	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615229753836	Marionette	INFO	Stopped listening on port 34789
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615229853731	geckodriver	INFO	Listening on 127.0.0.1:54201
+1615229854748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesYz8wh"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615229856748	Marionette	INFO	Listening on port 36533
+1615229856783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615229860987	Marionette	INFO	Stopped listening on port 36533
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1615230645432	geckodriver	INFO	Listening on 127.0.0.1:48731
+1615230646447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFHsDxr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615230648294	Marionette	INFO	Listening on port 43033
+1615230648398	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list3_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+JavaScript warning: https://dividenddetective.com/big_dividend_list4_htm_files/roe.js, line 1: unreachable code after return statement
+1615230652869	Marionette	INFO	Stopped listening on port 43033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
